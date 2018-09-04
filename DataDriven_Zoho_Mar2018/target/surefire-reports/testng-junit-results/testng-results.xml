@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="65" started-at="2018-09-04T02:56:33Z" finished-at="2018-09-04T02:56:34Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="65" started-at="2018-09-04T02:56:33Z" finished-at="2018-09-04T02:56:34Z">
+      <class name="com.selenium.zoho.project.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:shouldAnswerWithTrue(com.selenium.zoho.project.AppTest)]" name="shouldAnswerWithTrue" duration-ms="3" started-at="2018-09-03T19:56:34Z" finished-at="2018-09-03T19:56:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- com.selenium.zoho.project.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
